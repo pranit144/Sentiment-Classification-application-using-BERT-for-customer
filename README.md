@@ -90,9 +90,6 @@ I love this product! It's amazing and works perfectly.
 - Word Count: 8
 - Character Count: 47
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -100,7 +97,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Contact
 
-For questions or support, please contact [your_email@example.com](mailto:your_email@example.com).
+For questions or support, please contact 
 
 ---
 
